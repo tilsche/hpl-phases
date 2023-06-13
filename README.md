@@ -54,3 +54,27 @@ It is available as per
     - Institution: Oak Ridge National Laboratory
     - Address: 1 Bethel Valley Road, Oak Ridge, Tennessee, 37830
     - Email: maiterthm@ornl.gov
+
+# Megware Systems
+
+## Alex
+
+- [A100 GPU System at Universitaet Erlangen](https://top500.org/system/180075/)
+- Short 5:16 run
+- Level1 Measurement
+
+## amplitUDE
+
+- [H100 GPU System at University of Duisburg-Essen](https://top500.org/system/180159/)
+- Short 3:15 run
+- Level1 Measurement
+
+## Grete
+
+- [A100 GPU System at NHR@Göttingen](https://top500.org/system/180092/)
+- Short 3:24 run 
+- Level2 Measurement
+
+## Author
+
+Data kindly provided by Markus Hilger, Megware.
