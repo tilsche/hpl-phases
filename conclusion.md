@@ -1,8 +1,8 @@
-# Changing the timing requirement of the Green500 run rules
+# Changing the Timing Requirements of the Green500 Run Rules / Power measurement methodology
 
 Discussion lead: Thomas Ilsche
 
-Status: internal consensus reached in the Power Measurement Methodology meeting 2023-06-27. 
+Status: internal consensus reached in the Power Measurement Methodology team meeting 2023-06-27. 
 
 https://sites.google.com/lbl.gov/power-measurement/home
 
@@ -113,7 +113,7 @@ Our exemplary analysis suggests, that for short runs around 5 minutes or less, t
 While not explicitly calculated, this option would lead to higher accuracy for short runs.
 However, it would exclude sites with only 60s measurement intervals (3 sites in our survey), even if they have long runs that are not affected.
 
-## Decision outcome
+## Decision Outcome
 
 Chosen option: "Option 2: minimum measurement interval of 60s and at least 10 samples" as a compromise of accuracy and accessibility.
 
