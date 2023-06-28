@@ -51,6 +51,7 @@ To avoid excluding these sites from the Green500, we need to specifically allow 
 On the other hand, the impact of low measurement rates on accuracy was not well understood.
 Hence, the analysis in [this repository](https://github.com/tilsche/hpl-phases) was conducted.
 We included high resolution HPL power traces from actual Green500 subission from 3 sites and one vendor totalling 7 different systems.
+Note that one of the data sets is currently not public, but was included in the evaluation.
 
 ### Effect on short runs
 
